@@ -23,7 +23,7 @@
     }
     ```
 ## Experience
-   funny joke [source_code](https://www.kinopoisk.ru/film/409295/) 
+   [CV](https://rusland420.github.io/rsschool-cv/cv) 
 ## Education
    * **University:** SPBSMTU, shipbuilding engineer
 ## English
