@@ -1,5 +1,5 @@
 # Ruslan Chalyy
-![My_Photo](/rsschool-cv/myphoto.jpg)
+![My_Photo](myphoto.jpg)
 
 ## Contacts
    * **Location:** Russia, Saint-Petersburg
