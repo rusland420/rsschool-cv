@@ -1,5 +1,5 @@
 # Ruslan Chalyy
-![My_Photo](myphoto.jpg)
+![My_Photo](myphoto.jpg =50x50)
 
 ## Contacts
    * **Location:** Russia, Saint-Petersburg
